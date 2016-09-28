@@ -2,4 +2,5 @@
 
 class C1
 {
+	// Class variables
 }
